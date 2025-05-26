@@ -24,7 +24,6 @@
             <version>5.11.2</version>
             <scope>test</scope>
         </dependency>
-
         <dependency>
             <groupId>com.javarush</groupId>
             <artifactId>desktop-game-engine</artifactId>
